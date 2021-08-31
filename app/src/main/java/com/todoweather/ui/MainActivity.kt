@@ -1,9 +1,8 @@
-package com.todoweather
+package com.todoweather.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Toast
-import androidx.activity.viewModels
+import com.todoweather.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

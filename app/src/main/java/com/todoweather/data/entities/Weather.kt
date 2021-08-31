@@ -1,4 +1,4 @@
-package com.todoweather.models
+package com.todoweather.data.entities
 
 data class Weather(
     var id: Long,

@@ -1,6 +1,6 @@
 package com.todoweather.di
 
-import com.todoweather.ApiService
+import com.todoweather.data.remote.ApiService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

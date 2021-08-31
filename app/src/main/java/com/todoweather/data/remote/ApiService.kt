@@ -1,6 +1,6 @@
-package com.todoweather
+package com.todoweather.data.remote
 
-import com.todoweather.models.Welcome
+import com.todoweather.data.entities.Welcome
 import com.todoweather.utils.Constants
 import retrofit2.http.GET
 import retrofit2.http.Query

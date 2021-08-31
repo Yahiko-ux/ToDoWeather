@@ -1,4 +1,4 @@
-package com.todoweather.di
+package com.todoweather
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

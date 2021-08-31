@@ -1,7 +1,8 @@
-package com.todoweather
+package com.todoweather.ui
 
 import androidx.lifecycle.*
-import com.todoweather.models.Welcome
+import com.todoweather.data.remote.ApiService
+import com.todoweather.data.entities.Welcome
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.launch
 import javax.inject.Inject
