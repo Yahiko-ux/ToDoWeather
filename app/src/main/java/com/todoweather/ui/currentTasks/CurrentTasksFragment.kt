@@ -1,17 +1,11 @@
-package com.todoweather.ui
+package com.todoweather.ui.currentTasks
 
-import android.annotation.SuppressLint
-import android.content.Context
 import android.os.Bundle
 import android.view.*
-import android.widget.Toast
 import androidx.fragment.app.Fragment
-import androidx.constraintlayout.motion.widget.OnSwipe
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.todoweather.R
 import com.todoweather.databinding.FragmentCurrentTasksBinding
-import java.lang.Math.abs
-
 
 class CurrentTasksFragment : Fragment(R.layout.fragment_current_tasks) {
     private val binding: FragmentCurrentTasksBinding by viewBinding()
