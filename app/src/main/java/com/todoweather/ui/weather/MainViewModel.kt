@@ -1,4 +1,4 @@
-package com.todoweather.ui
+package com.todoweather.ui.weather
 
 import androidx.lifecycle.*
 import com.todoweather.data.remote.ApiService
